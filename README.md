@@ -16,13 +16,13 @@ As much as I would love to say **EACH AND EVERY** weekend this will be updated--
     <tr>
         <th width="20%">Project</th>
         <th width="10%">Date Added</th>
-        <th width="60%">Description</th>
-        <th width="10%">Link</th>
+        <th width="50%">Description</th>
+        <th width="20%">Article</th>
     </tr>
     <tr>
         <td>Bug Game</td>
         <td>10/27/2013</td>
-        <td>HTML5 Canvas + JS movement engine designed & coded myself. Renders a bug graphic to the canvas which can be moved with the arrow keys.</td>
+        <td>Renders a bug graphic to the canvas which can be moved with the arrow keys. Designed & coded by me.</td>
         <td>-</td>
     </tr>
 </table>
