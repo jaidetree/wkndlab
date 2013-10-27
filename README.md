@@ -14,13 +14,13 @@ As much as I would love to say **EACH AND EVERY** weekend this will be updated--
 
 <table>
     <tr>
-        <th>Project</th>
-        <th>Date Added</th>
-        <th>Description</th>
+        <th width="30%">Project</th>
+        <th width="10%">Date Added</th>
+        <th width="60%">Description</th>
     </tr>
     <tr>
         <td>Bug Game</td>
-        <th>10/27/2013</th>
-        <th>HTML5 Canvas + JS movement engine. I tried to abstract the logic out for making a game with a world, a player that moves as the world turns by queing events through a timer. Mostly successful aside from handling rotation. Will expiriment with rotation another week.</th>
+        <td>10/27/2013</td>
+        <td>HTML5 Canvas + JS movement engine. I tried to abstract the logic out for making a game with a world, a player that moves as the world turns by queing events through a timer. Mostly successful aside from handling rotation. Will expiriment with rotation another week.</td>
     </tr>
 </table>
