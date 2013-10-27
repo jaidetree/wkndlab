@@ -207,11 +207,13 @@
     };
 
     Bug.prototype.moveUp = function (e) {
+        //this.game.move('RotateObject', this, 0);
         this.game.move('MoveObject', this, new Point(0, -10));
     };
 
     Bug.prototype.moveDown = function (e) {
         this.game.move('MoveObject', this, new Point(0, 10));
+       //this.game.move('RotateObject', this, 180);
     };
 
     Bug.prototype.getImage = function (e) {
@@ -295,8 +297,15 @@
         object.game.world.stage.translate(delta.x, delta.y);
     };
 
+    // This code doesn't seem to work quite yet. Will need to
+    // expiriment with rotation in another project.
     MoveFactory.moveTypes.RotateObject = function(object, newAngle) {
+        var angle = newAngle - object.angle;
         object.angle = newAngle;
+        if ( angle !== 0 ) {
+            object.game.world.stage.translate(object.game.world.size.x/2,object.game.world.size.y/2);
+            object.game.world.stage.rotate(angle * Math.PI / 180);
+        }
     };
 
 
