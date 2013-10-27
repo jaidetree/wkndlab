@@ -14,15 +14,17 @@ As much as I would love to say **EACH AND EVERY** weekend this will be updated--
 
 <table>
     <tr>
-        <th width="20%">Project</th>
+        <th width="10%">Project</th>
         <th width="10%">Date Added</th>
         <th width="50%">Description</th>
         <th width="20%">Link</th>
+        <th width="10%">Article</th>
     </tr>
     <tr>
         <td>Bug Game</td>
         <td>10/27/2013</td>
         <td>Renders a bug graphic to the canvas which can be moved with the arrow keys. Designed & coded by me.</td>
         <td>http://wknd.jayzawrotny.com/wknd_01_bug/</td>
+        <td><a href="http://jayzawrotny.com/blog/wknd-01-bug-game-engine">View</a></td>
     </tr>
 </table>
