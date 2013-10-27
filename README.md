@@ -17,7 +17,7 @@ As much as I would love to say **EACH AND EVERY** weekend this will be updated--
         <th width="20%">Project</th>
         <th width="10%">Date Added</th>
         <th width="50%">Description</th>
-        <th width="20%">Article</th>
+        <th width="20%">Link</th>
     </tr>
     <tr>
         <td>Bug Game</td>
