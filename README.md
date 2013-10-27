@@ -23,6 +23,6 @@ As much as I would love to say **EACH AND EVERY** weekend this will be updated--
         <td>Bug Game</td>
         <td>10/27/2013</td>
         <td>Renders a bug graphic to the canvas which can be moved with the arrow keys. Designed & coded by me.</td>
-        <td>-</td>
+        <td>http://wknd.jayzawrotny.com/wknd_01_bug/</td>
     </tr>
 </table>
